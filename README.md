@@ -1,3 +1,5 @@
+**README WRITTEN BY AI**
+
 Windows Low-Level Keyboard Logger in C
 
 A minimalist, educational system-wide keyboard hook implemented in pure C using the Windows API. This project is built to explore low-level system hooks, message loops, virtual key translations, and file I/O operations on Windows.
